@@ -130,12 +130,3 @@ pig-behaviour-tracking/
 
 This started as a group project during my MSc at the University of Essex, which produced the detection model and the first version of the web app. I later extended it on my own with multi-pig tracking, label smoothing, per-pig behaviour summaries, CSV export, image and video summaries in the web app, and a fix that stops simultaneous uploads overwriting each other.
 
-## Credits and Licence
-
-- Dataset: [Pig Behavior](https://universe.roboflow.com/swine-tktu8/pig-behavior-8xbgn) by the swine-tktu8 workspace on Roboflow Universe, licensed under CC BY 4.0.
-- Detection and tracking: [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics). Because Ultralytics is licensed under AGPL-3.0, this project uses the same licence.
-
----
-
-**Author:** Manas Acharya, MSc Artificial Intelligence (Distinction), University of Essex
-[LinkedIn](https://linkedin.com/in/manas-acharya-8m2a) · [GitHub](https://github.com/Manas-Acharya)
