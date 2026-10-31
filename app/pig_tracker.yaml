@@ -1,0 +1,10 @@
+# ByteTrack settings for a fixed camera over one pen.
+# Pigs often lie on top of each other, so lost tracks are kept for longer
+# than the default (30 frames) before a new ID is given out.
+tracker_type: bytetrack
+track_high_thresh: 0.25
+track_low_thresh: 0.1
+new_track_thresh: 0.4
+track_buffer: 90
+match_thresh: 0.8
+fuse_score: True

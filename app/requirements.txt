@@ -1,0 +1,7 @@
+ultralytics>=8.3.0
+lap>=0.5.12
+opencv-python
+fastapi>=0.108
+uvicorn
+jinja2
+python-multipart
